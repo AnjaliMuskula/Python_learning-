@@ -1,0 +1,6 @@
+Name: anjali
+Age: 22
+Marks: 129
+percentage: 86.0
+Grade: A
+Result:pass

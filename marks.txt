@@ -1,0 +1,6 @@
+anjali,20
+rahul,29
+amit,34
+aman,22
+ajit,34
+aayush,24

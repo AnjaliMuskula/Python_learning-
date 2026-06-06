@@ -1,0 +1,40 @@
+Level 1 — Beginner
+├── Calculator
+├── Number guessing game
+├── To-do list (terminal)
+└── Password generator
+
+Level 2 — Intermediate
+├── Weather app (using API)
+├── Web scraper
+├── Expense tracker
+└── Quiz game
+
+Level 3 — Advanced
+├── Chat application
+├── Django/Flask web app
+├── Data analysis dashboard
+└── Automation scripts
+
+
+
+LaneWhat you learnJobsWeb DevDjango, Flask, REST APIsBackend developerData
+
+
+ SciencePandas, NumPy, MatplotlibData analystAI/MLScikit-learn, TensorFlowML engineerAutomationSelenium, scriptsDevOps, QACybersecurityNetworks, ethical hackingSecurity engineer
+
+
+
+ 1) never copy paste code
+ 2) break things on purpose
+ 3) read other people code
+ 4) explain what you wrote
+ 5) build in public
+ 6) google is not cheating 
+
+
+Month 1   → Foundations, syntax, basic logic
+Month 2-3 → Problem solving, patterns, algorithms
+Month 3-4 → First real projects
+Month 6   → Comfortable building things alone
+Month 12  → Job-ready or freelance-ready
